@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+requests
+git+https://github.com/bradleyseanf/monarchmoneycommunity.git
+gql>=4.0
+python-multipart
+oathtool
