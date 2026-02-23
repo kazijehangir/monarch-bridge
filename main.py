@@ -2,7 +2,7 @@ import asyncio
 import logging
 import os
 from contextlib import asynccontextmanager
-from typing import Optional, List, Dict, Any
+from typing import Optional
 from datetime import datetime, timedelta
 
 from fastapi import FastAPI, HTTPException, Query
